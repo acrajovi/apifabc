@@ -78,7 +78,7 @@ Documentar el API en SWAGGER para presentarlo al usuario.
 * Descargar el codigo de este repositorio.
 * Levantar en un entorno de desarrollo con Java 11
 * Una vez compilado, ejecutar el proyecto
-* El proyecto se levanta en el puurto 8080 y en el contexto /apifabc
+* El proyecto se levanta en el puerto 8080 y en el contexto /apifabc
 
 ## Probando la API
 
@@ -117,5 +117,5 @@ Documentar el API en SWAGGER para presentarlo al usuario.
 # 
 # 
 # 
-* Desarrollador por **José Acosta** [BIO SOluciones Tecnológicas](http://bio.com.py/)
+* Desarrollador por **José Acosta** [BIO SOluciones Tecnológicas](https://acrajovi.bio.com.py/)
 
